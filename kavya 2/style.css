@@ -1,0 +1,45 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    font-style: italic;
+    /* flex-direction: column; */
+}
+img{
+    width: 20%;
+    height: 20%;
+    border-radius: 10%;
+    /* border: 2px solid crimson; */
+    background-color: white;
+}
+.card>div{
+    width: auto;
+    /* border: 3px solid black; */
+    padding: 1%;
+    margin: 1%;
+    background-color: cyan;
+}
+h1{
+    color: crimson;
+}
+h2{
+    color: darkorchid;
+}
+button{
+    color: indigo;
+}
+@media only screen and (min-width:320pxx) and (max-width:480px){
+.card{
+    display: flex;
+    flex-direction: row;
+}
+.card>div{
+    width: 50%;
+    border: 2px solid purple;
+}
+}
+ 
+    

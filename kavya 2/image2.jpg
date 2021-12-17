@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)http://127.0.0.1:5500/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./image2_files/bootstrap.min.css">
+    <script src="./image2_files/_link rel=" stylesheet"="" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous"></script></head><body>"&gt;
+   
+
+kavya navya
+    <!-- <h1 class="text-info">hello</h1> -->
+    <!-- <h1 class="text-danger bg-dark h2">kavya</h1>
+    <h1 class="text-success bg-dark h3">navya</h1>
+    <h1 class="text-warning">cherry</h1>
+    <p class="text-primary">kavya navya</p>
+    <h1 class="text-capitalize">navya</h1>
+    <h1 class="text-uppercase">kavya</h1>
+    <h1 class="text-lowercase">navya is a buffalo</h1> -->
+
+    <!-- <div class="">
+    <h1 class="display-1 bg-warning">display-1</h1>
+    <h1 class="display-2 bg-success">display-2</h1>
+    <h1 class="display-3 bg-info">display-3</h1>
+    <h1 class="display-4 bg-bright">display-4</h1>
+    <h1>display-5</h1>
+    <h1>display-6</h1>
+
+    <table class="table table-dark">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">First</th>
+            <th scope="col">Last</th>
+            <th scope="col">Handle</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">1</th>
+            <td>Mark</td>
+            <td>Otto</td>
+            <td>@mdo</td>
+          </tr>
+          <tr>
+            <th scope="row">2</th>
+            <td>Jacob</td>
+            <td>Thornton</td>
+            <td>@fat</td>
+          </tr>
+          <tr>
+            <th scope="row">3</th>
+            <td>Larry</td>
+            <td>the Bird</td>
+            <td>@twitter</td>
+          </tr> -->
+
+          <!-- <table class="table">
+            <thead class="thead-dark">
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">First</th>
+                <th scope="col">Last</th>
+                <th scope="col">Handle</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">1</th>
+                <td>Mark</td>
+                <td>Otto</td>
+                <td>@mdo</td>
+              </tr>
+              <tr>
+                <th scope="row">2</th>
+                <td>Jacob</td>
+                <td>Thornton</td>
+                <td>@fat</td>
+              </tr>
+              <tr>
+                <th scope="row">3</th>
+                <td>Larry</td>
+                <td>the Bird</td>
+                <td>@twitter</td>
+              </tr>
+            </tbody>
+          </table>
+          
+        <!-- >  <table class="table">
+            <thead class="thead-light">
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">First</th> -->
+                <!-- <th scope="col">Last</th>
+                <th scope="col">Handle</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">1</th>
+                <td>Mark</td>
+                <td>Otto</td>
+                <td>@mdo</td>
+              </tr>
+              <tr>
+                <th scope="row">2</th>
+                <td>Jacob</td>
+                <td>Thornton</td>
+                <td>@fat</td>
+              </tr>
+              <tr>
+                <th scope="row">3</th>
+                <td>Larry</td>
+                <td>the Bird</td>
+                <td>@twitter</td>
+              </tr -->
+              <!-- <div class="container bg-warning">
+                <h1>hello</h1>
+                <h1>kavya</h1>
+                
+
+              </div>
+
+              <div class="container-fluid bg-success">
+                <h1>hello</h1>
+                <h1>kavya</h1>
+
+              </div>
+
+              <div class="jumbotron">
+                <h1 class="display-1">kavya</h1>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                 Cum ad labore necessitatibus natus! Velit ullam nisi voluptatem 
+                 corporis autem omnis vero sit exercitationem blanditiis earum.
+                 Molestias illum vero suscipit numquam.</p>
+                 <button class="btn btn-info">click</button>
+               
+              </div>
+ -->
+
+            
+              <!-- <div class="jumbotron border border-info">
+                <h1 class="display-1">kavya</h1>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                 Cum ad labore necessitatibus natus! Velit ullam nisi voluptatem 
+                 corporis autem omnis vero sit exercitationem blanditiis earum.
+                 Molestias illum vero suscipit numquam.</p>
+                 <button class="btn btn-info">click</button>
+               
+              </div> -->
+  
+              <div class="d-flex m-2 p-2 border border-danger justify-content-center ">
+                <div class="m-2 p-2 border border-success order-2">kavya</div>
+                <div class="m-2 p-2 border border-info order-last">navya</div>
+                <div class="m-2 p-2 border border-warning order-3">rupa</div>
+                <div class="m-2 p-2 border border-danger">nitya</div>
+              </div>
+              
+                
+                <div class="card-deck">
+                  <div class="card">
+                    <img src="./image2_files/image1.jpg">
+                    <div class="card-body">
+                      <h1 class="card-title">kavya</h1>
+                      <h3 class="card-text">CSE</h3>
+                    </div>
+                  </div>
+                </div>
+              <!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+            
+                
+            
+
+
+
+            
+            
+            
+        
+     
+</body></html>
